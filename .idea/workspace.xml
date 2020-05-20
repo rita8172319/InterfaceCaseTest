@@ -1,0 +1,748 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3873b811-0d4c-4b09-87e4-cd3de1100e01" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/untitled$DDI_web.coverage" NAME="DDI-web服务器更新 Coverage Results" MODIFIED="1588920693805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/调试文件/DDI工具" />
+    <SUITE FILE_PATH="coverage/untitled$ForShell.coverage" NAME="ForShell Coverage Results" MODIFIED="1587464984931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/调试文件" />
+    <SUITE FILE_PATH="coverage/untitled$ForShell__1_.coverage" NAME="ForShell (1) Coverage Results" MODIFIED="1587546506974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/调试文件/DDI工具" />
+    <SUITE FILE_PATH="coverage/untitled$DhcpBusiness.coverage" NAME="DhcpBusiness Coverage Results" MODIFIED="1589615589169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InterfaceModule/Business" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_for_TestsmokeForDNS_GoodsShow_test_9_AddRecord.coverage" NAME="Unittests for TestsmokeForDNS.GoodsShow.test_9_AddRecord Coverage Results" MODIFIED="1588758826603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InterfaceModule/TestCase/UserInfoController" />
+    <SUITE FILE_PATH="coverage/untitled$DNSTest.coverage" NAME="DNSTest Coverage Results" MODIFIED="1586250932846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/调试文件" />
+    <SUITE FILE_PATH="coverage/untitled$UserInfo.coverage" NAME="UserInfo Coverage Results" MODIFIED="1588729463098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InterfaceModule/Interface/UserInfoController" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_for_TestUserInfo_GoodsShow_testLoginTest1.coverage" NAME="Unittests for TestUserInfo.GoodsShow.testLoginTest1 Coverage Results" MODIFIED="1588728734861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InterfaceModule/TestCase/UserInfoController" />
+    <SUITE FILE_PATH="coverage/untitled$run__1_.coverage" NAME="run (1) Coverage Results" MODIFIED="1588759303723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InterfaceTEST/TestRun" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_in_TestUserInfo_py.coverage" NAME="Unittests in TestUserInfo.py Coverage Results" MODIFIED="1588241015695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InterfaceModule/TestCase/UserInfoController" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_for_Testsmoke_GoodsShow_test_2_getAcl.coverage" NAME="Unittests for Testsmoke.GoodsShow.test_2_getAcl Coverage Results" MODIFIED="1588733763911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InterfaceModule/TestCase/UserInfoController" />
+    <SUITE FILE_PATH="coverage/untitled$DDI.coverage" NAME="DDI服务器更新 Coverage Results" MODIFIED="1588987100853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/调试文件/DDI工具" />
+    <SUITE FILE_PATH="coverage/untitled$runTest.coverage" NAME="runTest Coverage Results" MODIFIED="1589265210059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/调试文件/打包测试/nester" />
+    <SUITE FILE_PATH="coverage/untitled$test.coverage" NAME="test Coverage Results" MODIFIED="1586221166915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_for_TestUserInfo_GoodsShow.coverage" NAME="Unittests for TestUserInfo.GoodsShow Coverage Results" MODIFIED="1588240861735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InterfaceModule/TestCase/UserInfoController" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_for_Testsmoke_GoodsShow_test_2_addAcl.coverage" NAME="Unittests for Testsmoke.GoodsShow.test_2_addAcl Coverage Results" MODIFIED="1588733050662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InterfaceModule/TestCase/UserInfoController" />
+    <SUITE FILE_PATH="coverage/untitled$py2.coverage" NAME="py2 Coverage Results" MODIFIED="1589858083682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/temp/file2" />
+    <SUITE FILE_PATH="coverage/untitled$temp.coverage" NAME="temp Coverage Results" MODIFIED="1589600179847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/调试文件" />
+    <SUITE FILE_PATH="coverage/untitled$.coverage" NAME="访问控制列表 Coverage Results" MODIFIED="1586328153123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/调试文件/DDI工具" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_for_Testsmoke_GoodsShow_testLoginTest1.coverage" NAME="Unittests for Testsmoke.GoodsShow.testLoginTest1 Coverage Results" MODIFIED="1588728645463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InterfaceModule/TestCase/UserInfoController" />
+    <SUITE FILE_PATH="coverage/untitled$BeautifulReport.coverage" NAME="BeautifulReport Coverage Results" MODIFIED="1589863756967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InterfaceModule/Dependency/BeautiifulReport" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_for_TestsmokeForDNS_GoodsShow_test_10_analysisRecordForIPV4.coverage" NAME="Unittests for TestsmokeForDNS.GoodsShow.test_10_analysisRecordForIPV4 Coverage Results" MODIFIED="1588758832922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InterfaceModule/TestCase/UserInfoController" />
+    <SUITE FILE_PATH="coverage/untitled$common_fun.coverage" NAME="common_fun Coverage Results" MODIFIED="1589513726290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InterfaceModule/Common" />
+    <SUITE FILE_PATH="coverage/untitled$run.coverage" NAME="run Coverage Results" MODIFIED="1589871461570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InterfaceModule/TestRun" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="run.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/InterfaceModule/TestRun/run.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="10" column="48" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IPV6转二进制.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/调试文件/htmlFile/IPV6转二进制.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="213">
+              <caret line="203" column="43" lean-forward="true" selection-start-line="203" selection-start-column="43" selection-end-line="203" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>apis/linkingthing.com/example/v1/dividedaddresses</find>
+      <find>查询</find>
+      <find>;</find>
+      <find>print</find>
+      <find>',</find>
+      <find>&quot;,</find>
+      <find>logging.info</find>
+      <find>self.yaml</find>
+      <find>unittest.skip(&quot;不执行&quot;)</find>
+      <find>---------------------</find>
+      <find>yamlData</find>
+      <find>=</find>
+      <find>file</find>
+      <find>zone</find>
+      <find>self.modifyRecord01Name</find>
+      <find> </find>
+      <find>self.header</find>
+      <find>self.urlPathYaml[&quot;urlPath&quot;]</find>
+      <find>@unittest.skip(&quot;不执行&quot;)</find>
+      <find># @unittest.skip(&quot;不执行&quot;)</find>
+      <find>mokeForDNS</find>
+      <find>get_des_psswd</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>;'</replace>
+      <replace>logging.info</replace>
+      <replace>print</replace>
+      <replace>unittest.skip(&quot;不执行&quot;)</replace>
+      <replace>urlPathYaml</replace>
+      <replace>:</replace>
+      <replace>self.recordSameName</replace>
+      <replace>header</replace>
+      <replace>url</replace>
+      <replace>self.urlPath</replace>
+      <replace># @unittest.skip(&quot;不执行&quot;)</replace>
+      <replace>@unittest.skip(&quot;不执行&quot;)</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$APPLICATION_CONFIG_DIR$/pycharm64.exe.vmoptions" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/temp.py" />
+        <option value="$PROJECT_DIR$/调试文件/DNSTest.py" />
+        <option value="$PROJECT_DIR$/调试文件/DDI工具/test.py" />
+        <option value="$PROJECT_DIR$/调试文件/DDI工具/登录.py" />
+        <option value="$PROJECT_DIR$/调试文件/DDI工具/批量添加访问控制列表.py" />
+        <option value="$PROJECT_DIR$/调试文件/DDI工具/RequestsMethod.py" />
+        <option value="$PROJECT_DIR$/调试文件/DDI工具/访问控制列表控制.py" />
+        <option value="$PROJECT_DIR$/调试文件/DDI工具/视图管理.py" />
+        <option value="$PROJECT_DIR$/调试文件/DDI工具/访问控制列表.py" />
+        <option value="$PROJECT_DIR$/调试文件/test.py" />
+        <option value="$PROJECT_DIR$/调试文件/temp.html" />
+        <option value="$PROJECT_DIR$/htmlFile/tesy.html" />
+        <option value="$PROJECT_DIR$/调试文件/ForShell.py" />
+        <option value="$USER_HOME$/Desktop/资料/Liunx常用功能/linux文件备份/updateServer.sh" />
+        <option value="$PROJECT_DIR$/调试文件/DDI工具/ForShell.py" />
+        <option value="$PROJECT_DIR$/调试文件/mysqlTest.py" />
+        <option value="$PROJECT_DIR$/调试文件/DDI工具/log.conf" />
+        <option value="$PROJECT_DIR$/InterfaceModule/TestCase/UserInfoController/Testsmoke.py" />
+        <option value="$PROJECT_DIR$/InterfaceModule/Interface/UserInfoController/UserInfo.py" />
+        <option value="$PROJECT_DIR$/InterfaceModule/Config/urlPath.yaml" />
+        <option value="$PROJECT_DIR$/调试文件/DDI工具/DDI-web服务器更新.py" />
+        <option value="$PROJECT_DIR$/调试文件/人工智能/图片文字识别.py" />
+        <option value="$PROJECT_DIR$/调试文件/DDI工具/DDI服务器更新.py" />
+        <option value="$PROJECT_DIR$/InterfaceModule/TestCase/UserInfoController/TestsmokeForDNS.py" />
+        <option value="$PROJECT_DIR$/InterfaceModule/Common/Myunit.py" />
+        <option value="$PROJECT_DIR$/InterfaceModule/Config/mokeData.yaml" />
+        <option value="$PROJECT_DIR$/InterfaceModule/TestCase/mokeCase/mokeForDNSCommon.py" />
+        <option value="$PROJECT_DIR$/InterfaceModule/Common/RequestMethod.py" />
+        <option value="$PROJECT_DIR$/调试文件/打包测试/nester/setup.py" />
+        <option value="$PROJECT_DIR$/调试文件/打包测试/nester/test_module.py" />
+        <option value="$PROJECT_DIR$/调试文件/打包测试/nester/testCase.py" />
+        <option value="$PROJECT_DIR$/调试文件/打包测试/nester/runTest.py" />
+        <option value="$PROJECT_DIR$/InterfaceModule/Interface/mokeInterface/mokeInterface.py" />
+        <option value="$PROJECT_DIR$/InterfaceModule/Interface/DnsInterface/DnsInterface.py" />
+        <option value="$PROJECT_DIR$/htmlFile/temp.js" />
+        <option value="$PROJECT_DIR$/InterfaceModule/Common/common_fun.py" />
+        <option value="$PROJECT_DIR$/调试文件/temp.py" />
+        <option value="$PROJECT_DIR$/htmlFile/IPV6转二进制.html" />
+        <option value="$PROJECT_DIR$/InterfaceModule/Common/JSFile/BaseConversion.js" />
+        <option value="$PROJECT_DIR$/InterfaceModule/Business/DhcpBusiness.py" />
+        <option value="$PROJECT_DIR$/InterfaceModule/Config/log.conf" />
+        <option value="$PROJECT_DIR$/temp/file1/py1.py" />
+        <option value="$PROJECT_DIR$/temp/file2/py2.py" />
+        <option value="$PROJECT_DIR$/InterfaceModule/TestCase/mokeCase/TestsmokeForDNS.py" />
+        <option value="$PROJECT_DIR$/InterfaceModule/Business/DnsBusiness.py" />
+        <option value="$PROJECT_DIR$/InterfaceModule/Common/getSSH.py" />
+        <option value="$PROJECT_DIR$/InterfaceModule/Dependency/BeautiifulReport/BeautifulReport.py" />
+        <option value="$PROJECT_DIR$/InterfaceModule/TestCase/UserInfoController/TestUserInfo.py" />
+        <option value="$PROJECT_DIR$/InterfaceModule/TestRun/run.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="360" />
+    <option name="y" value="7" />
+    <option name="width" value="1479" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled" type="462c0819:PsiDirectoryNode" />
+              <item name="调试文件" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled" type="462c0819:PsiDirectoryNode" />
+              <item name="调试文件" type="462c0819:PsiDirectoryNode" />
+              <item name="htmlFile" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/test/ddi-controller-test" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dell\PycharmProjects\untitled\调试文件" />
+      <recent name="C:\Users\Dell\PycharmProjects\untitled\InterfaceModule\Common\jsFile" />
+      <recent name="C:\Users\Dell\PycharmProjects\untitled\InterfaceModule\Business" />
+      <recent name="C:\Users\Dell\PycharmProjects\untitled\InterfaceModule\TestCase\mokeCase" />
+      <recent name="C:\Users\Dell\PycharmProjects\untitled\InterfaceModule\TestCase" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dell\PycharmProjects\untitled\InterfaceModule\Config" />
+      <recent name="C:\Users\Dell\PycharmProjects\untitled\InterfaceModule\TestCase" />
+      <recent name="C:\Users\Dell\PycharmProjects\untitled\InterfaceModule\TestCase\UserInfoController" />
+      <recent name="C:\Users\Dell\PycharmProjects\untitled\InterfaceModule\Common" />
+      <recent name="C:\Users\Dell\PycharmProjects\untitled\调试文件\DDI工具" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.run">
+    <configuration name="BeautifulReport" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/InterfaceModule/Dependency/BeautiifulReport" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/InterfaceModule/Dependency/BeautiifulReport/BeautifulReport.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="DhcpBusiness" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/InterfaceModule/Business" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/InterfaceModule/Business/DhcpBusiness.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="py2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/temp/file2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/temp/file2/py2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/InterfaceModule/TestRun" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/InterfaceModule/TestRun/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="temp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/调试文件" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/调试文件/temp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.run" />
+      <item itemvalue="Python.temp" />
+      <item itemvalue="Python.DhcpBusiness" />
+      <item itemvalue="Python.py2" />
+      <item itemvalue="Python.BeautifulReport" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run" />
+        <item itemvalue="Python.BeautifulReport" />
+        <item itemvalue="Python.py2" />
+        <item itemvalue="Python.DhcpBusiness" />
+        <item itemvalue="Python.temp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3873b811-0d4c-4b09-87e4-cd3de1100e01" name="Default" comment="" />
+      <created>1585722673077</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585722673077</updated>
+    </task>
+    <task id="LOCAL-00001" summary="11">
+      <created>1589266709902</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589266709902</updated>
+    </task>
+    <task id="LOCAL-00002" summary="xx">
+      <created>1589267851172</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589267851172</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_TestUserInfo_GoodsShow - 2020.04.30 at 18h 00m 10s.xml">
+      <configuration name="Unittests for TestUserInfo.GoodsShow" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_TestUserInfo_GoodsShow - 2020.04.30 at 18h 00m 28s.xml">
+      <configuration name="Unittests for TestUserInfo.GoodsShow" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_TestUserInfo_GoodsShow - 2020.04.30 at 18h 01m 01s.xml">
+      <configuration name="Unittests for TestUserInfo.GoodsShow" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_TestUserInfo_py - 2020.04.30 at 18h 03m 35s.xml">
+      <configuration name="Unittests in TestUserInfo.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Testsmoke_GoodsShow_testLoginTest1 - 2020.05.06 at 09h 30m 45s.xml">
+      <configuration name="Unittests for Testsmoke.GoodsShow.testLoginTest1" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_TestUserInfo_GoodsShow_testLoginTest1 - 2020.05.06 at 09h 32m 15s.xml">
+      <configuration name="Unittests for TestUserInfo.GoodsShow.testLoginTest1" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Testsmoke_GoodsShow_test_2_addAcl - 2020.05.06 at 10h 44m 10s.xml">
+      <configuration name="Unittests for Testsmoke.GoodsShow.test_2_addAcl" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Testsmoke_GoodsShow_test_2_getAcl - 2020.05.06 at 10h 56m 04s.xml">
+      <configuration name="Unittests for Testsmoke.GoodsShow.test_2_getAcl" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_TestsmokeForDNS_GoodsShow_test_9_AddRecord - 2020.05.06 at 17h 53m 46s.xml">
+      <configuration name="Unittests for TestsmokeForDNS.GoodsShow.test_9_AddRecord" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_TestsmokeForDNS_GoodsShow_test_10_analysisRecordForIPV4 - 2020.05.06 at 17h 53m 53s.xml">
+      <configuration name="Unittests for TestsmokeForDNS.GoodsShow.test_10_analysisRecordForIPV4" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5005208" side_tool="true" weight="0.32659575" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49882492" weight="0.27659574" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49947917" weight="0.3287234" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18229167" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39787233" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32978722" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="11" />
+    <MESSAGE value="xx" />
+    <option name="LAST_COMMIT_MESSAGE" value="xx" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="22" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/InterfaceModule/Report/测试报告2020-05-11 14_32_12.html" />
+    <entry file="file://$PROJECT_DIR$/InterfaceModule/Report/测试报告2020-05-11 14_46_29.html" />
+    <entry file="file://$PROJECT_DIR$/InterfaceModule/Report/测试报告2020-05-11 14_55_09.html" />
+    <entry file="file://$PROJECT_DIR$/InterfaceModule/Report/测试报告2020-05-11 14_56_43.html" />
+    <entry file="file://$PROJECT_DIR$/InterfaceModule/Report/测试报告2020-05-11 15_16_00.html" />
+    <entry file="file://$PROJECT_DIR$/InterfaceModule/Report/测试报告2020-05-11 15_16_57.html" />
+    <entry file="file://$PROJECT_DIR$/InterfaceModule/Report/测试报告2020-05-11 16_39_01.html" />
+    <entry file="file://$PROJECT_DIR$/InterfaceModule/Report/测试报告2020-05-11 16_29_09.html" />
+    <entry file="file://$PROJECT_DIR$/InterfaceModule/Report/测试报告2020-05-11 16_50_45.html" />
+    <entry file="file://$PROJECT_DIR$/InterfaceModule/Report/测试报告2020-05-11 17_01_37.html" />
+    <entry file="file://$PROJECT_DIR$/InterfaceModule/TestRun/test.html" />
+    <entry file="file://$PROJECT_DIR$/InterfaceModule/Report/测试报告2020-05-12 11_17_12.html" />
+    <entry file="file://$PROJECT_DIR$/InterfaceModule/Log/runlog.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-135948" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/调试文件/打包测试/nester/test_module.py" />
+    <entry file="file://$PROJECT_DIR$/调试文件/打包测试/nester/setup.py" />
+    <entry file="file://$PROJECT_DIR$/调试文件/打包测试/nester/testCase.py" />
+    <entry file="file://$PROJECT_DIR$/调试文件/打包测试/nester/runTest.py" />
+    <entry file="file://$PROJECT_DIR$/InterfaceModule/Report/测试报告2020-05-13 09_19_36.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceModule/Interface/UserInfoController/UserInfo.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceModule/Common/RequestMethod.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceModule/Interface/DnsInterface/DnsInterface.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="508">
+          <caret line="73" column="18" lean-forward="true" selection-start-line="73" selection-start-column="18" selection-end-line="73" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceModule/Report/测试报告2020-05-14 14_59_59.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceModule/Config/urlPath.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceModule/Common/jsFile/temp.js" />
+    <entry file="file://$PROJECT_DIR$/调试文件/temp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceModule/Common/common_fun.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="238" selection-start-line="238" selection-end-line="238" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceModule/Common/JSFile/BaseConversion.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="160" column="24" selection-start-line="160" selection-start-column="13" selection-end-line="160" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceModule/Data/user.json" />
+    <entry file="file://$PROJECT_DIR$/调试文件/DDI工具/DDI服务器更新.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="206" column="2" selection-start-line="206" selection-start-column="2" selection-end-line="206" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceModule/Config/log.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceModule/Common/Myunit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/bcrypt/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp/file1/py1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp/file2/py2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceModule/Report/测试报告2020-05-19 12_49_24.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#td#5;n#tr#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceModule/Dependency/BeautiifulReport/template/template">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/distutils/sysconfig.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="110" column="4" selection-start-line="110" selection-start-column="4" selection-end-line="110" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceModule/Report/测试报告2020-05-19 14_24_03.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#td#5;n#tr#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceModule/Dependency/BeautiifulReport/BeautifulReport.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="371" column="11" selection-start-line="371" selection-start-column="11" selection-end-line="371" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceModule/Report/测试报告2020-05-19 14_36_37.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#td#5;n#tr#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceModule/TestCase/UserInfoController/TestUserInfo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="17" column="43" lean-forward="true" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceModule/TestCase/mokeCase/TestsmokeForDNS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="106" column="25" lean-forward="true" selection-start-line="106" selection-start-column="25" selection-end-line="106" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceModule/Report/测试报告2020-05-19 14_55_46.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#td#5;n#tr#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceModule/Report/测试报告2020-05-19 14_55_44.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#td#5;n#tr#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceModule/Report/测试报告2020-05-19 14_57_42.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#td#5;n#tr#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceModule/Business/DhcpBusiness.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4920">
+          <caret line="171" column="22" lean-forward="true" selection-start-line="171" selection-start-column="22" selection-end-line="171" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceModule/Business/DnsBusiness.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceModule/Common/getSSH.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="10" lean-forward="true" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceModule/TestRun/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="48" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/调试文件/htmlFile/IPV6转二进制.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="203" column="43" lean-forward="true" selection-start-line="203" selection-start-column="43" selection-end-line="203" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

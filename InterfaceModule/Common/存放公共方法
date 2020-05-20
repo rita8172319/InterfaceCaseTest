@@ -1,0 +1,7 @@
+1.common
+	- common_fun：公共方法
+		- class excel_common 需要传入excel文件名，放在config下面
+		- class json_common 需要传入json文件名，放在data下面
+	
+	- interface_caps：获取全部接口文件内容
+		- class interface_info 需要传入excel文件名，json文件名，第几行excel文件id

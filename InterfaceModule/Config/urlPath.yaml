@@ -1,0 +1,17 @@
+# serverIP/serverUser/serverPassword
+urlPath: http://172.31.0.201:8081
+controllerServer: 172.31.0.201
+dnsServer01: 172.31.0.202
+dnsServer02: 172.31.0.203
+dhcpServer: 172.31.0.204
+ServerUsename: root
+ServerPassword: 123456
+
+# terminalIP/terminalUser/terminalPassword
+terminal01Server: 192.168.1.100
+terminal01Username: root
+terminal01Password: 123456
+
+terminal02Server: 192.168.0.100
+terminal02Username: root
+terminal02Password: 123456
